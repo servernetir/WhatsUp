@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371231573773",
+    "firebase_url": "https://whatsup-84a93-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "whatsup-84a93",
+    "storage_bucket": "whatsup-84a93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371231573773:android:e19a35952fc13ca4105244",
+        "android_client_info": {
+          "package_name": "com.servernet.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371231573773-2vekorp4doojt5etgm8mn4snt0omtnh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJsA7tj6heRxpONIiBjejvL4ccboH73s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371231573773-2vekorp4doojt5etgm8mn4snt0omtnh7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "371231573773-sjnhriup5bh829miuefe4ojmg9ttj4vo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.servernet.whatsup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
