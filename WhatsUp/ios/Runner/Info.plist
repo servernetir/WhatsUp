@@ -38,7 +38,7 @@
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<string>NO</string>
 	<key>GADApplicationIdentifier</key>
-	<string>ca-app-pub-3940256099942544~1458002511</string>
+	<string>ca-app-pub-8218065439705577~5298243305</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>https</string>
