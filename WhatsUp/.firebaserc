@@ -1,5 +1,5 @@
 {
   "projects": {
-        "whatsup-84a93": "PASTE_YOUR_FIREBASE_PROJECT_ID_HERE"
+        "default": "whatsup-84a93"
   }
 }
